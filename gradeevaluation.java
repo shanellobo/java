@@ -24,3 +24,11 @@ public class Main {
            return "F";
       }
    }
+   public static void main(String[] args) {
+      Scanner scan = new Scanner(System.in);
+      System.out.print("Enter score value: ");
+      int score = scan.nextInt();
+      System.out.println("Grade = " + findGrade(score));
+      scan.close();
+   }
+}
