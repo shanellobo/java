@@ -1,4 +1,4 @@
-package brence;
+package shanell;
 import static java.lang.Float.sum; 
 import java.util.Scanner;  
 public class Main {  
