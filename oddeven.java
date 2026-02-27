@@ -1,4 +1,4 @@
-package brence;
+package shanell;
 
 import java.util.Scanner;
 
@@ -19,3 +19,4 @@ public class oddeven {
         reader.close();
     }
 }
+
