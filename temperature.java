@@ -1,4 +1,4 @@
-package brence;
+package shanell;
 import java.util.Scanner;
 public class Temperature {
     public static void main(String[] args) {
@@ -21,3 +21,4 @@ public class Temperature {
         }
     }
 }
+
