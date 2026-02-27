@@ -1,4 +1,5 @@
-import static java.lang.Float.sum;  
+package brence;
+import static java.lang.Float.sum; 
 import java.util.Scanner;  
 public class Main {  
    public static void main(String[] args)  
@@ -10,7 +11,7 @@ public class Main {
       n = sc.nextInt();  
       while (count <= n)   
              {   
-                  System.out.print("Enter the "+count+ " number? ");  
+                  System.out.print("Enter the "+count+ " number: ");  
                   x = sc.nextInt();  
                   sum+=x;   
                   ++count;   
