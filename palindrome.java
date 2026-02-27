@@ -1,4 +1,4 @@
-package brence;
+package shanell;
 import java.util.Scanner;
 
 public class Palindrome { 
@@ -24,4 +24,5 @@ public class Palindrome {
         scanner.close();
     }
 }
+
 
